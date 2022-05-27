@@ -7,4 +7,4 @@ The main repo for the Hackathon project is:
 
 ![https://github.com/giddyphysicist/ChainlinkHackathon2022](https://github.com/giddyphysicist/ChainlinkHackathon2022)
 
-And the front-end interactive app is located ![here](https://chainlink-hackathon2022-frontend.vercel.app/)
+And the front-end interactive app is located ![here](https://chainlink-hackathon2022-frontend.vercel.app)
